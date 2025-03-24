@@ -22,7 +22,7 @@ use <database-name>  - select the database workspace as current working DB
 If not it will create but it will not display till we add some collection or data inside it
 db -  show you the database you are currently working in
 find() //Return all the documents
-findOne // returns only 1t document
+findOne // returns only 1 document
 
 
 Languages supported by Mongodb:
